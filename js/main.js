@@ -44,6 +44,10 @@ rp(url+'tyranitar/')
         console.log(strgMod);
         console.log(weakMod);
     })
+    .then(() => {
+        console.log('secondo then()!');
+        
+    })
     .catch((err) => {
         console.log(err);
     })
