@@ -1,0 +1,27 @@
+{
+  "name": "manlio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "browserify": "^16.5.0",
+    "cheerio": "^1.0.0-rc.3",
+    "npm-check-updates": "^3.1.24",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PManlio/PokemonScraping.git"
+  },
+  "author": "Manlio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PManlio/PokemonScraping/issues"
+  },
+  "homepage": "https://github.com/PManlio/PokemonScraping#readme"
+}
